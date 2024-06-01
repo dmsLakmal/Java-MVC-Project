@@ -460,9 +460,9 @@
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="-2" pref="313" max="-2" attributes="0"/>
-                      <Component id="jLabel7" min="-2" pref="496" max="-2" attributes="0"/>
-                      <EmptySpace pref="191" max="32767" attributes="0"/>
+                      <EmptySpace min="-2" pref="373" max="-2" attributes="0"/>
+                      <Component id="jLabel7" min="-2" pref="226" max="-2" attributes="0"/>
+                      <EmptySpace pref="401" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -479,7 +479,7 @@
           <SubComponents>
             <Component class="javax.swing.JLabel" name="jLabel7">
               <Properties>
-                <Property name="text" type="java.lang.String" value="This software designed by Kushan,Chamodi,Kaveesha,Sajeewa and Sujith."/>
+                <Property name="text" type="java.lang.String" value="This software designed by Sujith Lakmal"/>
               </Properties>
             </Component>
           </SubComponents>
