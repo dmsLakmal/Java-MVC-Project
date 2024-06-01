@@ -42,7 +42,7 @@ public static java.sql.Connection getConnection() {
         java.sql.Connection connection = null;
 
 try {
-    Class.forName("com.mysql.jdbc.Driver");
+    Class.forName("com.mysql.cj.jdbc.Driver");
     connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/studentdb", "root", "");
 } 
 
